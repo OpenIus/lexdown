@@ -3,8 +3,7 @@
   "version": "0.0.0",
   "description": "Parse legal markdown documents",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "Max Gfeller <gfeller@lexferenda.ch>",
   "contributors": [
     {
