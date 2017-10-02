@@ -1,0 +1,18 @@
+{
+  "name": "legal-markdown-parser",
+  "version": "0.0.0",
+  "description": "Parse legal markdown documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "remark": "^8.0.0",
+    "remark-frontmatter": "^1.1.0",
+    "remark-html": "^6.0.1",
+    "remark-parse": "^4.0.0",
+    "unified": "^6.1.5"
+  }
+}
