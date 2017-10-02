@@ -6,8 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Max Gfeller <gfeller@lexferenda.ch>",
+  "contributors": [
+    { "name": "Nicolas Degen" }
+  ],
+  "license": "MIT",
   "dependencies": {
     "remark": "^8.0.0",
     "remark-frontmatter": "^1.1.0",
