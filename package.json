@@ -4,11 +4,12 @@
   "description": "Parse legal markdown documents",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Max Gfeller <gfeller@lexferenda.ch>",
   "contributors": [
-    { "name": "Nicolas Degen" }
+    {
+      "name": "Nicolas Degen"
+    }
   ],
   "license": "MIT",
   "dependencies": {
@@ -16,6 +17,7 @@
     "remark-frontmatter": "^1.1.0",
     "remark-html": "^6.0.1",
     "remark-parse": "^4.0.0",
+    "remark-toc": "^4.0.1",
     "unified": "^6.1.5"
   }
 }
