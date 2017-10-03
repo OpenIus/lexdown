@@ -19,7 +19,7 @@ function tokenizeReflink (eat, value, silent) {
 
   return eat(match[0])({
     type: 'html',
-    value: `<a class="reflink" href="${match[2]}">${title}</a>`
+    value: `<a class="reflink" href="https://docs.lexsear.ch${match[2]}" target="_blank">${title}</a>`
   })
 }
 
