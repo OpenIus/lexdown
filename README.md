@@ -16,12 +16,18 @@ the syntax defined [here](https://github.github.com/gfm/).
 
 Marginalia can be defined for `cod` documents on an article level:
 
-```markdown
+```
 ### Article title
 
 [[This is a marginalia]]
 
 Article text...
+```
+
+### Lexrefs
+
+```
+*[<title>](<ELI/ECLI code>)
 ```
 
 ## Examples
