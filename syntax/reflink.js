@@ -1,3 +1,5 @@
+const lexsearch = require('../utils/lexsearch')
+
 function locateReflink (value, fromIndex) {
   return value.indexOf('*[', fromIndex)
 }
@@ -11,13 +13,13 @@ function tokenizeReflink (eat, value, silent) {
   if (!match) return
   if (silent) return true
 
-  var title = match[2] || null
 
-  // todo: fetch meta data
+  var result = lexsearch.fetch(match[2])
+  var title = match[1] || result.title
 
   return eat(match[0])({
     type: 'html',
-    value: `<a class="reflink" href="${match[2]}">${match[1]}</a>`
+    value: `<a class="reflink" href="${match[2]}">${title}</a>`
   })
 }
 
