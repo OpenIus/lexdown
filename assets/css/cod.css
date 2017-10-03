@@ -8,4 +8,5 @@ body {
   display: block;
   width: 100px;
   margin-left: -110px;
+  float: left;
 }

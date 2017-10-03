@@ -24,6 +24,13 @@ Marginalia can be defined for `cod` documents on an article level:
 Article text...
 ```
 
+### Superscript
+
+```
+^1^Superscript
+~2~Subscript
+```
+
 ### Lexrefs
 
 ```
@@ -31,6 +38,8 @@ Article text...
 ```
 
 ## Examples
+
+Run `export LEXSEARCH_KEY=XYZ` before the first export.
 
 There are a few example documents in `examples/`. To compile those to html just
 run `bin/parser.js <filename> > test.html`.
