@@ -9,6 +9,7 @@ const yaml = require('js-yaml')
 const subSuper = require('remark-sub-super')
 const slugs = require('remark-slug')
 const headings = require('remark-autolink-headings')
+const toc = require('remark-toc')
 
 const marginalia = require('./syntax/marginalia')
 const reflink = require('./syntax/reflink')
@@ -32,14 +33,22 @@ function parseMetadata () {
 
     docType = content.type
     docTitle = content.title
+
+    data.children.splice(1, 0, {
+      type: 'html',
+      value: `<div class="document-title">${docTitle}</div>`
+    })
   }
 }
 
 
 function parseLexdown (contents, opts, cb) {
   contents = includes(contents)
-  unified()
+  remark()
     .use(parse, { footnotes: true })
+    .use(toc, {
+      heading: 'Inhaltsverzeichnis'
+    })
     .use(marginalia)
     .use(reflink)
     .use(parseMetadata)
