@@ -7,7 +7,22 @@ Lexdown is a markup language for legal documents.
 
 ### Basic markdown syntax
 
+Lexdown builds on the GFM markdown syntax and therefore supports (nearly) all of
+the syntax defined [here](https://github.github.com/gfm/).
 
+### Footnotes
+
+### Marginalia
+
+Marginalia can be defined for `cod` documents on an article level:
+
+```markdown
+### Article title
+
+[[This is a marginalia]]
+
+Article text...
+```
 
 ## Examples
 
