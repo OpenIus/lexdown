@@ -1,11 +1,24 @@
 body {
-  width: 910px;
+  width: 810px;
   margin-left: auto;
   margin-right: auto;
+  font-family: "Helvetica", Arial, sans-serif;
 }
 
 .marginalia {
   display: block;
   width: 100px;
   margin-left: -110px;
+}
+
+h1 {
+  font-weight: bold;
+  color: #000;
+  font-size: 32px;
+}
+
+h2 {
+  font-weight: bold;
+  color: #000;
+  font-size: 24px;
 }
