@@ -36,7 +36,6 @@ function parseMetadata () {
 function parseLexdown (contents, opts, cb) {
   contents = includes(contents)
   unified()
-    .use(includes)
     .use(parse, { footnotes: true })
     .use(marginalia)
     .use(reflink)
