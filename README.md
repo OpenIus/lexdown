@@ -24,6 +24,13 @@ Marginalia can be defined for `cod` documents on an article level:
 Article text...
 ```
 
+### Superscript
+
+```
+^1^Superscript
+~2~Subscript
+```
+
 ### Lexrefs
 
 ```
