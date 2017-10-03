@@ -69,6 +69,8 @@ function parseLexdown (contents, opts, cb) {
         <html>
         <head>
           <meta charset="utf-8">
+          <link href="https://fonts.googleapis.com/css?family=Lora:700,400|Open+Sans:400,700,400italic" rel="stylesheet" type="text/css">
+          <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
           <title>${docTitle}</title>
           <style>
             ${basicCSS}

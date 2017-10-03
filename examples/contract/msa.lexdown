@@ -6,8 +6,6 @@ type: contract
 lexdown_version: 0.1
 ---
 
-__COMPANY, INC SERVICES AGREEMENT__
-
 This Services Agreement (the “__Agreement__”) sets forth terms under which [YOUR COMPANY'S NAME] a [YOUR COMPANY'S STATE] corporation (“__Company__”) shall provide services to [CLIENT NAME], a [CLIENT'S STATE] [TYPE OF ENTITY] (the “Client”). This Agreement is effective as of Month dd, yyyy (“__Effective Date__”).
 
 # 1 Services
@@ -79,4 +77,4 @@ Company reserves all remedies available at law or equity for any disputes that a
 
 Accepted and agreed to as of the Effective Date by the authorized representative of each party:
 
-{{Signatures}}
+{{signatures}}
