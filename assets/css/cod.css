@@ -1,7 +1,8 @@
-body {
-  width: 910px;
-  margin-left: auto;
-  margin-right: auto;
+.document-title {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  font-size: 32px;
+  font-weight: bold;
 }
 
 .marginalia {
@@ -9,4 +10,8 @@ body {
   width: 100px;
   margin-left: -110px;
   float: left;
+}
+
+.footnotes > ol > li > p {
+  display: inline;
 }
