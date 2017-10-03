@@ -24,7 +24,7 @@ Marginalia can be defined for `cod` documents on an article level:
 Article text...
 ```
 
-### Superscript
+### Superscript & Subscript
 
 ```
 ^1^Superscript
@@ -34,8 +34,18 @@ Article text...
 ### Lexrefs
 
 ```
-*[<title>](<ELI/ECLI code>)
+*[<title>](<canonical>)
 ```
+
+If the title is not supplied we'll just display the title of the article itself.
+
+The canonical has the following format:
+
+```
+/ch/[cod|rul]/<srNumber>/<article>
+```
+
+Example: `/ch/cod/220/66` for the art. 66 of the OR.
 
 ## Examples
 
