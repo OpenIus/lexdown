@@ -9,10 +9,11 @@ const yaml = require('js-yaml')
 
 const marginalia = require('./syntax/marginalia')
 const reflink = require('./syntax/reflink')
+const includes = require('./syntax/includes')
 
 function logger () {
   return function (data) {
-    // console.log(JSON.stringify(data))
+    console.log(JSON.stringify(data))
   }
 }
 
@@ -25,6 +26,7 @@ function parseMetadata () {
     if (type !== 'yaml') return
 
     var content = yaml.load(data.children[0].value)
+
     docType = content.type
     docTitle = content.title
   }
@@ -32,12 +34,14 @@ function parseMetadata () {
 
 
 function parseLexdown (contents, opts, cb) {
+  contents = includes(contents)
   unified()
+    .use(includes)
     .use(parse, { footnotes: true })
     .use(marginalia)
     .use(reflink)
     .use(parseMetadata)
-    .use(logger)
+    // .use(logger)
     .use(frontmatter, ['yaml'])
     .use(html)
     .process(contents, (err, file) => {
@@ -62,6 +66,7 @@ function parseLexdown (contents, opts, cb) {
         </body>
         </html>
       `
+
       cb(err, html)
     })
 }
