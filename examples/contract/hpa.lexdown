@@ -1,0 +1,482 @@
+---
+domain: ch
+title: Hardware Purchase Agreement
+language: de
+type: contract
+lexdown_version: 0.1
+---
+
+This Global Master Hardware Purchase Agreement (the “Agreement”) is made as of [EffectiveDate] (the “Effective Date”) by and between [Supplier's Name] [Supplier’s corporate form], whose principal place of business is [Supplier's Place of Business] ("Supplier"), and [XBank](), a Swiss bank, whose principal place of business is [XBank's Address] (“[XBank]()”), together the “Parties” and each a “Party”.
+
+NOW, THEREFORE, in consideration of the mutual promises set forth herein, [XBank]() and Supplier hereby agree as follows:
+
+# 1 Purpose of the Agreement
+
+## 1.1 Generally
+This Agreement sets forth the terms and conditions applicable to Products and Services acquired by [XBank]() pursuant to Transaction Schedules signed or provided by [XBank]() and accepted by Supplier from time to time. Supplier accepts a Transaction Schedule by signing it, by providing the Product(s) or Service(s) referenced thereon, or by authorizing use of or access to the Product(s) or Service(s) referenced thereon. Each Transaction Schedule signed or provided by [XBank]() and accepted by Supplier is incorporated by reference into this Agreement as to the Products and Services set forth thereon.
+
+## 1.2   Affiliates
+Supplier agrees that Affiliates of [XBank]() may acquire Products and Services pursuant to this Agreement by executing Transaction Schedules. In such event, the applicable Affiliate shall, for purposes of such Transaction Schedule, be considered “[XBank]()” as that term is used in this Agreement, and this Agreement, insofar as it relates to any such Transaction Schedule, shall be deemed to be a two-party agreement between Supplier on the one hand and the Affiliate on the other hand. The rights and privileges granted herein shall extend to [XBank]() and its present and future Affiliates.
+
+# 2 Definitions and Interpretation
+
+## 2.1 Definitions
+For the purposes of this Agreement, capitalized terms not defined elsewhere in this Agreement shall have the meanings and definitions respectively assigned to them hereafter:
+“Affiliate” means, with respect to any person or entity, any other person or entity that directly or indirectly Controls, is Controlled by, or is under common Control with such person or entity, from time to time but only for so long as such Control exists.
+“Agreement” means this present Global Master Purchase Agreement, together with all documents attached hereto or referenced herein, and each Transaction Schedule as to the Products and/or Services specified thereon.
+“Control” and its grammatical variants means (iTMEP) a general partnership interest in a partnership, (ii) the beneficial ownership of a majority of the outstanding equity entitled to vote for directors, or (iii) the power to direct or cause the direction of the management and policies of such entity whether by contract or otherwise.
+"Documentation" means the operating manuals, user instructions, technical literature, functional descriptions, and all other related materials concerning the Products and Services, including but not limited to the descriptions of the functional, operational and design characteristics of the Products and specifications for installation and use.
+"Error" means any failure of or problem, non-conformity, defect, malfunction, error or “bug” that causes (iTMEP) the Product or Service to fail to provide the performance, features and functionality described in the Documentation and the Product Warranty below (regardless of the expiration of the Warranty Period) or to produce unintelligible or incorrect results, or (ii) any adverse effect on the availability or response times of the Product or Service.
+“Fees” means the remuneration payable to Supplier for the performance of its obligations set forth in this Agreement, including the rights and licenses granted herein.
+“Hardware” means the hardware listed in any Transaction Schedule (Order Form or Purchase Order).
+“Harmful Code” means any computer instructions, circuitry, or other means whose purpose or effect is to (iTMEP) disrupt, disable, harm, or otherwise impede in any manner, including aesthetic disruptions or distortions, the operation of the Products or Services, or any other software, firmware, hardware, computer system or network (sometimes referred to as “viruses” or “worms”), (ii) disable the Products or Services or impair in any way their operation, or the operation of any other software, firmware, hardware, computer system or network, based on the elapsing of a period of time, exceeding a number of users, processors or copies, advancement to a particular date or other numeral, or the occurrence of any other event (sometimes referred to as “time bombs”, “time locks”, or “drop dead” devices) or (iii) permit unauthorized access to the Products or Services or any other software, firmware, hardware, computer system or network (sometimes referred to as “traps”, “back doors”, “access codes” or “trap door” devices), and (iv) any other harmful, malicious, hidden, or self-replicating procedures, routines or mechanisms which could or do cause the Products or Services, or any other software, firmware, hardware, computer system or network to cease functioning or to damage or corrupt data, storage media, programs, equipment or communications, or otherwise interfere with any part of [XBank]()’s, its Affiliates’ or any third party’s operations.
+“Initial Maintenance Term” means the period of time identified as such on the Transaction Schedule.
+“Intellectual Property Rights” means and includes, to the extent recognized under applicable Law, patents, patent applications, copyrights (including rights in computer software), trade marks, service marks, trade dress, trade names, business names, internet domain names, e-mail address names, trade secrets, moral rights, database rights, customer lists, design rights, know-how, techniques, processes, methods, inventions (whether patentable or not), conceptions, discoveries, improvements, chip designs, mask works, proprietary information, technical information, specifications, and all other rights of authorship and intellectual and industrial property rights, and other equivalent or similar rights which may subsist anywhere in the world, in all cases whether registered or unregistered, including any form of application for any of the foregoing, and including any goodwill relating thereto.
+“Law” means any domestic or foreign declaration, decree, directive, law, legislative enactment, order, ordinance, regulation or rule, or other similar binding requirement, as amended from time to time, of any governmental, regulatory, judicial, or administrative authority or self-regulatory organization.
+“Maintenance Services” means the services described on Exhibit B attached hereto.
+“Maintenance Service Levels” means the required levels of performance of the Maintenance Services as set forth in the attached Exhibit B.
+“Maintenance Term” means the Initial Maintenance Term and each Renewal Maintenance Term, individually and collectively.
+“Order Form” means a document in the form of Exhibit A, containing the specific details of the Products to be purchased and which references this Agreement and is agreed to and executed by both Parties.
+“Product” means the Hardware listed in Transaction Schedules hereunder, including all Software Products, Updates and all Documentation as hereinafter defined.
+“Professional Services” means the services described in a Transaction Schedule or an agreement substantially in the form of Exhibit C attached hereto.
+"Purchase Order" means a purchase order issued and authorized by [XBank]() for the purchase of Products under this Agreement and shall contain an itemization of the Products to be purchased, the Fees, billing information and delivery location.
+“Renewal Maintenance Term” means each period the Maintenance Term is renewed or extended as provided in this Agreement. Unless otherwise set forth in the Transaction Schedule or agreed to by the Parties, each Renewal Maintenance Term shall be one (1) year.
+“Services” means any services provided or to be provided by or on behalf of Supplier pursuant to this Agreement, including Maintenance Services and Professional Services.
+"Software" means the computer programs in object code form that cannot be used separately from such Hardware, that [XBank]() orders and Supplier delivers under this Agreement.
+“Software Product” means Software and Stand Alone Software.
+“Specified Operating Environment” means the technical environment necessary for the proper operation of each Product, including all hardware, software, firmware, and networking requirements. The Specified Operating Environment for each Product shall be set forth on the Transaction Schedule.
+"Stand Alone Software" means computer programs in object code form which may or may not be pre-installed on the Hardware by Supplier but can be used separately from such Hardware that [XBank]() orders and Supplier delivers under this Agreement.
+“Third Party-Branded Products” means Products available for purchase or license from Supplier that are manufactured, developed or made available by other companies and are distributed for use in conjunction with Supplier’s Products. Such Third Party-Branded Products shall be identified as such to [XBank]() on the applicable Transaction Schedule.
+"Transaction Schedule" means either an Order Form or a Purchase Order.
+"Update" means each patch, revision, new version, release, update, improvement, modification, correction, addition, and additional functionality enhancement to the Product(s) made by or on behalf of Supplier.
+“Warranty Period” means the period specified as such in the Article of this Agreement entitled “Product Warranty.”
+
+## 2.2   Interpretation
+For the purposes of this Agreement:
+unless the context otherwise requires, reference to the singular includes the plural and vice versa, and reference to a gender includes the other gender;
+words and phrases such as “including” (and its grammatical variations), “such as,” “e.g.”, and “for example” are non-exclusive and mean “including without limitation” (with applicable grammatical variation);
+all references to “day” mean a calendar day, unless business day is specified;
+an electronic communication does not satisfy any requirement that something be written, in writing, or signed by any person or party, or any similar requirement, except that manually signed writings may be exchanged by reliable electronic reproduction, such as facsimile or Adobe® Acrobat® portable document format or that a written document may be executed by using DocuSign.
+
+# 3 FEES, INVOICING, PAYMENT AND TAXES
+
+## 3.1 Fees
+The Fees for the Products and Services shall be set forth in the Transaction Schedule and shall be in accordance with the pricing exhibit attached hereto as Exhibit D. Supplier shall not be entitled to any other compensation. Supplier shall bear all the expenses of its performance under this Agreement.
+
+## 3.2   Product Pricing Methodology
+The Fees, unless explicitly stated otherwise, are valid worldwide and based on INCOTERMS 2000 Delivery Duty Paid (DDP) and FOB Destination in the United States.
+The Fees include any and all costs and expenses, including but not limited to transportation, installation, assembly, handling of Products, insurance costs, custom duties, import and export taxes to [XBank]() locations and any training of [XBank]() personnel by Supplier. Government taxes (such as value added tax) and government-imposed fees (such as VrG in Switzerland) are explicitly excluded. Additional Fees may only be charged if specifically agreed upon, otherwise all Services set forth in the applicable Transaction Schedule are considered to be included in the Product Fees.
+Supplier will always offer [XBank]() its most competitive pricing and is expected to update its pricing at regular intervals (at least quarterly) which shall be reflected in an amended version of Exhibit D. Global Fees for Products will be quoted in United States dollars. For purposes of invoicing in local currency where required by law or by agreement of the Parties, Supplier’s global prices will be converted from United States dollars into local currency or the currency used by Supplier in the country in which the invoice is issued (invoicing country). The applicable currency exchange rate (“Applicable Currency Exchange Rate”) will be the REUTERS End of Month (EOM) exchange rate for the currency of the invoicing country as published on the last day of the month prior to the date on which Products are invoiced to [XBank]() (“Invoice Date”).
+
+## 3.3 Payment Terms
+[XBank]() shall pay each invoice properly rendered in accordance with this Agreement and not in bona fide dispute within forty-five (45) days following the later of (iTMEP) receipt of the invoice, and (ii) the date for payment specified in this Agreement or as otherwise agreed in the applicable Transaction Schedule.
+Product Fees. Product Fees shall be payable upon receipt of the Products.
+Maintenance Service Fees. Maintenance Service Fees shall be payable upon the commencement of each Maintenance Term, provided that for Maintenance Terms in excess of one year, the applicable portion of the Maintenance Service Fees shall be payable annually in advance.
+Fees for Other Services. Fees for other Services shall be payable upon completion of such Services in accordance with this Agreement and the applicable Transaction Schedule and any applicable Professional Services agreement.
+
+## 3.4 Invoices
+Invoices must specify the charges in the same manner as the charges are set forth on the Transaction Schedule and be sent to the address specified thereon. The invoice must separately state all taxes payable by [XBank](), allocated in accordance with any allocation of the Fees specified in the Purchase Order. Invoices will not be processed unless the applicable Purchase Order number is referenced on the invoice and [XBank]() has previously received a fully executed original copy of the Agreement and the applicable Order Form. Additionally, all invoices must contain the following information: (iTMEP) Designation of [XBank]() legal entity ([XBank]() or an Affiliate); (ii) Date of delivery (or shipment date and expected delivery date); (iii) Purchase Order date; (iv) Line item equipment breakdown with equipment serial number; (v) Price in United States dollars or in local currency (as mutually agreed upon); (vi) Any additional costs. The invoice date shall not precede the delivery date of the invoiced Products.
+
+## 3.5 No Interest or Self-Help
+[XBank]() shall not be liable for interest or other late charges, nor shall Supplier use any “self-help” or methods of repossession (including electronic methods) for any reason.
+
+## 3.6 Taxes
+All Fees, prices, and other charges mentioned in this Agreement shall be exclusive of all value-added taxes and sales and use taxes assessed on the provision of the Products or Services. [XBank]() shall provide Supplier with a tax exemption certificate (if applicable) or be responsible for the payment of such taxes in the country in which the Product(s) are installed. Supplier shall be responsible for the payment of any other duties, taxes and other charges levied upon signing and/or performance of this Agreement or any Transaction Schedule.
+
+## 3.7 Industrial Development Agency of New York
+For purposes of [XBank]() and/or certain of its Affiliates obtaining certain tax benefits with respect to Products installed and Services received in New York, New York, United States of America, Supplier agrees, notwithstanding anything in this Agreement to the contrary, that [XBank]() may assign its rights, and delegate its obligations under this Agreement, from time to time, to an Affiliate of [XBank]() (“IDA Purchaser”) and that IDA Purchaser may sell, lease or sublicense such rights to another Affiliate of [XBank]() acting as agent of the Industrial Development Agency of New York (“IDA Agent”), for the sole benefit of [XBank]() and its Affiliates, and that IDA Agent may sell, lease or sublicense such rights to [XBank]() and its Affiliates. [XBank]() and its Affiliates shall at all times be subject to the terms and conditions of this Agreement. A purchase order issued by the IDA Purchaser shall constitute notice of such assignment with respect to the amounts set forth in such purchase order and, in such event, Supplier shall invoice the IDA Purchaser for the amounts set forth thereon.
+
+## 3.8 Discounts
+All Fees for all Products and Services provided to [XBank]() by or on behalf of Supplier shall be discounted at a percentage rate equal to or greater than the then-current discount percentage offered to [XBank](), calculated at the time the Schedule for such Products and/or Services is executed by the Parties. The applicability, availability and calculation of any such discount shall be effective during the term of the applicable Transaction Schedule and shall be in accordance with the then-current attached Exhibit D.
+
+# 4 ORDERS, DELIVERY, INSTALLATION AND CANCELLATION
+
+## 4.1 Orders
+Transaction Schedules must be in written or authorized electronic format. [XBank]() reserves the right to cancel or modify any order prior to delivery. All orders shall include the following information on the applicable Transaction Schedule: (iTMEP) Clear identification of the legal entity ([XBank]() or an Affiliate); (ii) [XBank]() or Affiliate’s Purchase Order number/reference number; (iii) Product part numbers, description and quantities or associated Supplier quote number that contains such details; (iv) Delivery address and invoice address; (v) Required delivery date (if different from the agreed delivery service level); and (vi) Any special shipping instructions. Changes to a Transaction Schedule must be provided in written or authorized electronic format by an authorized [XBank]() representative.
+
+## 4.2 Additional Order Requirements
+Upon [XBank]()’s request, Supplier will support [XBank]() in streamlining its purchasing operations by agreeing to do the following for [XBank](), at no additional charge: (iTMEP) delivery according to schedule; (ii) provide an electronic catalogue of Supplier Products; (iii) integration with an e-procurement system, of [XBank]()’s choice, to provide for the electronic transmission of (a) order receipt; (b) product descriptions, part numbers and pricing; (c) estimated time of Product arrival; and (d) proof of delivery; and (iv) integration with an e-invoicing system.
+
+## 4.3 Delivery
+Supplier shall deliver the Products identified in the Transaction Schedule (and all associated Documentation) to the location set forth in the applicable Transaction Schedule (or as otherwise designated by [XBank]()) on or before the earlier of (a) the delivery date set forth in the applicable Transaction Schedule or (b) seven (7) calendar days from the date the order is placed with Supplier by [XBank](). [XBank]() reserves the right, in its sole discretion, to designate a later delivery date for delivery of all of some of the Products on the applicable Transaction Schedule. Supplier shall promptly notify [XBank]() after the Products have been shipped, and shall notify [XBank]() as soon as Supplier becomes aware of any actual or potential delay. [XBank]() shall, at its expense, cooperate with Supplier as reasonably necessary for Supplier's delivery of Products and performance of related services in a timely manner. The following information must be clearly visible on both the packing and the delivery note: (iTMEP) [XBank]() or Affiliate recipient (contact details as specified on the applicable Transaction Schedule); (ii) [XBank]() or Affiliate Purchase Order number; and (iii) line item Product breakdown with Product serial number (in electronically readable format, barcode and/or disk) as requested by [XBank](). Supplier shall make commercially reasonable efforts to ensure professional and faultless packaging. Supplier is liable in full to [XBank]() or Affiliate for damage to the Product(s) occurring in transit as a result of inadequate or unsuitable packaging.
+
+## 4.4 Installation
+On the installation date(s) set forth in the applicable Order Form and/or as designated by [XBank](), Supplier shall install the Products and conduct all of its own testing procedures on the Products to ensure that the Products are functioning properly ("Completed Installation"). Supplier shall issue to [XBank]() a written certification of Completed Installation.
+
+## 4.5 Risk of Loss
+[XBank]() shall not bear the risk of loss or damage to the Products until receipt of the Products. Thereafter, [XBank]() shall bear the entire risk of loss or damage to the Products, except that Supplier shall bear the risk for any and all damage caused by Supplier or any Supplier designee, manufacturer or supplier.
+
+## 4.6 Title
+Title to the Hardware shall pass to [XBank]() upon [XBank]()’s receipt of the Hardware; provided, however, that title to Software Product(s) and any Third Party-Branded software Product(s) shall remain with Supplier or third party subject to the licenses granted herein to [XBank]().
+
+## 4.7 Documentation
+Upon delivery of Products, Supplier shall deliver to [XBank]() at least one (1) electronic and one (1) hard copy of all generally available Documentation for such Products sufficient to enable [XBank]() personnel to use and to fully understand the functionality, use and operation of such Products. Supplier agrees that [XBank]() may copy the Documentation in order to satisfy its own reasonable internal requirements, provided [XBank]() reproduces any copyright or other proprietary notice that is contained on the original Documentation provided by Supplier.
+
+## 4.8 Cancellation
+[XBank]() may delay, reschedule or cancel any Product purchase or installation without penalty of any kind by providing written notice to Supplier prior to the Completed Installation of the Products. Except as otherwise permitted hereunder, [XBank]() shall pay a cancellation fee of five percent (5%) of the Fees for the applicable Products for any cancellation of an Transaction Schedule without cause after Completed Installation.
+
+# 5 EVALUATION
+
+## 5.1 Beta Testing
+Supplier agrees that [XBank]() may, in its sole discretion and with Supplier's consent, test and evaluate Products not yet commercially available ("Beta Test"). If Supplier subsequently makes test Products available in the commercial marketplace, then [XBank]() shall have the right to purchase (or license) same, as Products hereunder. In consideration of [XBank]() being a Beta Test participant, the Fees applicable to such Products shall be discounted for [XBank]() at a mutually agreed upon percentage in excess of Supplier's generally provided discount off of its fees to its other customers.
+
+## 5.2   Trial Evaluations
+Supplier agrees that [XBank]() may test and evaluate Supplier's commercially available Products for [XBank]()'s potential use ("Trial Evaluation"). If Trial Evaluation is specified on the Transaction Schedule, then Supplier agrees to allow [XBank]() the right to use such Products for a limited period of time at no charge and with no additional obligations. Unless a specific time period for such trial/evaluation is indicated on the Transaction Schedule, [XBank]() shall be permitted to use the trial/evaluation Products for a minimum of ninety (90) days from the date such Products are installed in [XBank]()'s environment ("Trial Period"). Notwithstanding the foregoing, neither Party is under any obligation to agree to its participation in a trial/evaluation of any Product at any time.
+
+# 6 SOFTWARE
+
+## 6.1 Software
+Supplier hereby grants [XBank]() and its Affiliates a perpetual, non-exclusive, non-transferable (except in accordance with Sections 3.7 or 15.1 hereof) license to use the Software and the Documentation, as reasonably necessary or appropriate for [XBank]()'s and its Affiliates' use and enjoyment of the Products. Except for the limited license rights expressly granted in this Agreement, Supplier reserves all rights in and to the Software and Documentation any modifications thereto, including title, ownership, intellectual property rights, and any other rights and interests. [XBank]() will own only the Hardware and the physical media on which the Software and Documentation are stored, if any. To the extent permissible under applicable law, [XBank]() agrees not to knowingly: (iTMEP) decompile, disassemble, or reverse engineer the Software; (ii) modify or create any derivative works (including, without limitation, translations, transformation, adaptations or other recast or altered versions) based on the Software or Documentation, or alter the Software; (iii) merge the Software with any other software other than as set forth in the Documentation or as otherwise recommended or approved by Supplier or its designees; (iv) use, copy, sell, sublicense, lease, rent, loan, assign, convey or otherwise transfer the Software or Documentation except as permitted pursuant to Sections 3.7 or 15.1 of this Agreement; (v) distribute, disclose or allow use of the Software or Documentation, in any format, through any timesharing service, service bureau or similar service, to or by any third parties other than authorized consultants, contractors, temporary employees or agents of [XBank]() or Affiliates and its authorized consultants, contractors, temporary employees or agents; (vi) enable any Software features or capacity (e.g., additional storage hours, agents, ports or mailboxes), which [XBank]() has been advised in advance of delivery of the Products that Supplier licenses as separate products, without Supplier's prior written consent; (vii) permit or encourage any third party to do any of the foregoing. [XBank]() and its Affiliates may make a reasonable number of back-up copies of the Software and Documentation.
+
+## 6.2   Stand Alone Software
+Stand Alone Software shall be licensed by Supplier to [XBank]() pursuant to a license agreement entered into by the Parties, attached to this Agreement or the applicable Transaction Schedule and incorporated into this Agreement by reference.
+
+# 7 PRODUCT WARRANTY
+
+## 7.1 Product Warranty
+Supplier represents and warrants to [XBank]() that:
+* (a) all Products and Services shall be free from defects in materials and workmanship and for a period of five (5) years from [XBank]()’s receipt of the Products and Services (iTMEP) will have all of the qualities and features and be capable of performing all of the functions described in the then-current Documentation, Supplier’s published specifications, any specifications attached to the applicable Transaction Schedule and any functionality and/or specifications published on the Supplier’s web site or otherwise generally available and (ii) Supplier shall correct any error or defect that prevents Products from performing in accordance with any of its associated specifications;
+* (b) the Products shall perform in accordance with the Documentation or as set forth in the applicable Transaction Schedule, without the necessity of purchasing any additional software, hardware, or firmware, other than as specified in the Specified Operating Environment;
+* (c) the environment configuration and other descriptions set forth in the Documentation or applicable Transaction Schedule correctly and completely describe all hardware, software, systems, fixtures and other aspects of the environment necessary for the proper installation and operation of the Products;
+* (d) the Documentation shall faithfully and accurately describe the operation of the Products and shall be sufficient to enable [XBank]() personnel to use and to fully understand the functionality, use and operation of the Products and Services;
+* (e) the Products will be new and previously unused;
+* (f) Supplier shall facilitate repair and/or replacement of Third Party-Branded Products on [XBank]()’s behalf in accordance with the warranty provisions of the Third Party-Branded Product manufacturer;
+* (g) the Products and Services shall perform in accordance with all Laws applicable to the functions they perform;
+* (h) the Products and Services will, under normal use and service, record, store, process, transmit, receive and present calendar dates falling before, on or after January 1, 2000, and date-related data and calculations using such dates, including, but not limited to, calculating, comparing and sequencing such dates and data and performing calculations using calendar dates and date-related data, in the same manner, and with the same functionality, accuracy, data integrity and performance, as the Products records, stores, processes, transmits, receives and presents calendar dates and date-related data and calculations using dates entirely on or before December 31, 1999, without creating any ambiguity as to century.
+
+## 7.2   Assistance During the Warranty Period
+During the Warranty Period, Supplier shall diagnose, verify and correct or replace any Error promptly after [XBank]() notifies Supplier of an Error or Supplier discovers an Error. Supplier shall also provide telephone hot-line assistance for the Products, including but not limited to explanations of Documentation problems, Error reporting, use of the Products, installation instructions and network operations. Supplier shall promptly provide [XBank]() with all available Updates and updated Documentation to correspond to any changes made to the Products.
+Supplier shall promptly correct any such Error or develop a work-around, patch or other fix for such Error and shall provide same to [XBank](). If an Error cannot be eliminated within a reasonable period of time, [XBank]() shall be entitled, at its own discretion and without limiting its other remedies, (iTMEP) to reduce the Fees in the amount corresponding to the loss of value of the Product due to the Error, or (ii) to rescind the affected Transaction Schedule(s) in return for reimbursement of all amounts paid with respect thereto.
+
+# 7.3 Necessary Resources
+If [XBank]() directs Supplier to correct the Error, Supplier shall apply such additional resources as are reasonably required to correct the Error within the applicable timeframe.
+
+# 7.4 Failure To Correct
+If [XBank]() directs Supplier to correct the Error and Supplier fails to do so within the applicable timeframe, [XBank]() may terminate the affected Transaction Schedules as of the date specified in the notice without further liability, in which case [XBank]() shall be entitled to a prompt refund of all amounts paid with respect to the affected Transaction Schedule(s).
+
+# 7.5 Warranty Period
+The warranties stated in this section shall apply for a period of five (5) years after [XBank]() has received the Products in accordance with this Agreement ("Warranty Period").
+
+# 8 MAINTENANCE, TRAINING, ADDITIONAL SERVICES AND ENGINEERING
+
+## 8.1 Maintenance
+In consideration of [XBank]()’s payment of the Maintenance Service Fees specified on the applicable Transaction Schedule, Supplier shall diagnose, verify and correct or replace any non-conformity, failure, defect, error, malfunction or bug which prevents the Product(s) from performing in accordance with the Documentation, warranties, and other descriptions and/or materials provided to [XBank]() as described in Exhibit B. The details regarding the Maintenance Services, including but not limited to, the Maintenance Term and Renewal Maintenance Terms, Fees and payment terms for the Maintenance Services, the level or type of Maintenance Services elected by [XBank](), response times, escalation procedures, remote access procedures and requirements, co-termination of Maintenance Terms, and service level agreements shall be set forth in the attached Exhibit B.
+
+## 8.2   Availability
+Supplier agrees to make available Maintenance Services for the Products for a minimum period of five (5) years from the date of purchase of said Products. If Supplier fails to make available such Maintenance Services, without limiting its other remedies, [XBank]() shall be entitled to a pro-rata refund of the Fees paid for such Product depreciated on a five year straight-line basis and all unused Maintenance Services fees paid in respect of such Products.
+
+# 8.3 Maintenance Renewal
+At least ninety (90) days prior to the expiration of each Maintenance Term, Supplier shall notify [XBank]() in writing of such expiration and of the proposed Maintenance Fee for the next Renewal Maintenance Term, subject to the section entitled “Limits on Maintenance Service Fees” below. [XBank]() may elect to renew the Maintenance Services for the Renewal Maintenance Term by notifying Supplier or by paying the Maintenance Service Fees for such Renewal Term. Unless [XBank]() renews the Maintenance Services, the Maintenance Term shall terminate as of the end of the then-current Maintenance Term. Notwithstanding anything herein to the contrary, the then-current Maintenance Term shall continue for ninety (90) days after [XBank]()’s receipt of Supplier's notice referred to above.
+
+# 8.4 Limits on Maintenance Service Fees
+For a period of three (3) years after the Transaction Schedule Effective Date, the Maintenance Fee applicable to each year of the Maintenance Term shall not exceed the Maintenance Fee set forth in the Transaction Schedule (subject to increases for additional Products). Thereafter, the Maintenance Fee applicable to each Renewal Maintenance Term shall not increase by more than the percentage increase in the applicable list price, but in no event more than three percent (3%) for each twelve (12) month period following the end of the aforementioned period, provided that in no event shall (iTMEP) any such prices increase unless such prices increase for all of Supplier’s commercial customers, (ii) amounts charged to [XBank]() exceed those charged to any other similarly situated commercial customers, and (iii) the Maintenance Service Fees exceed five percent (5%) of the net purchase price of the Products.
+
+# 8.5 Unsupported Products
+If Supplier ceases to offer Maintenance Services for any Product or Service (such Product or Service, an “Unsupported Product”) at any time during which [XBank]() is entitled to or has elected to receive or renew Maintenance Services, Supplier shall provide to [XBank](), together with Maintenance Services thereon, at no additional charge and pursuant to this Agreement, any Product or Service announced, licensed, or provided by Supplier to any other customer (a “Replacement Product”) that (iTMEP) is or is marketed as a replacement for or successor to such Unsupported Product, (ii) provides substantially similar functionality as the Unsupported Product, or (iii) provides alternative functionality to or substitute functionality for the functionality of the Unsupported Product, in all cases regardless of whether the Replacement Product provides substantially new or additional functionality to the functionality of the Unsupported Product.
+
+# 8.6 Enhanced Maintenance Services
+[XBank]() may elect to expand the call-in Maintenance Services Supplier is providing, arrange for additional on-site services, or add or enhance other services from Supplier upon mutually acceptable terms and conditions.
+
+# 8.7 Termination of Maintenance Services
+[XBank]() may terminate Maintenance Services for any Products at any time in whole or in part, upon thirty (30) days' written notice to Supplier. Upon such termination, Supplier shall refund to [XBank]() all prepaid Maintenance Serv* ic) Fees pertaining to the period following such termination. [XBank]()’s termination or discontinuance of Maintenance Services shall not constitute a termination of any licenses to the Products. [XBank]()’s failure to pay Maintenance Service Fees shall not constitute a breach of this Agreement or any Transaction Schedule. Supplier’s sole remedy for [XBank]()’s failure to pay Maintenance Service Fees shall be the suspension of Maintenance Services.
+
+# 8.8 Training
+Supplier shall provide all training necessary to train all [XBank]()-designated employees and agents on the use and operation of the Products at no additional charge to [XBank](). If additional training is required and/or requested by [XBank](), the charge, duration, nature and other particulars applicable to such training shall be specified on the Transaction Schedule.
+
+# 8.9 Additional Services
+Professional Services shall be performed by Supplier to [XBank]() as agreed to by the Parties and shall be described in a Transaction Schedule or a Professional Services agreement, entered into by the Parties, substantially in the form of Exhibit C and attached hereto.
+
+# 8.10 Services Discount
+In the event that Supplier provides [XBank]() with any training or Professional Services relating to the Product(s), including but not limited to training, customization and implementation, [XBank]() shall receive at least a fifty percent (50%) discount on any such Services.
+
+# 8.11 Engineering
+Supplier will assign engineering support staff for the Products provided under this Agreement, at no cost to [XBank](), and such engineering support will include but not be limited to:
+* Give advice and assistance on technical problems
+* Give advice on third party products and compatibility with Supplier Products
+* Engineering support to provide advice on [XBank]() installations which may not be running on the most current Hardware and/or Software
+* Determine specific Products and part numbers required to fulfill requested specifications
+* Nominate and provide a qualified single point of contact for engineering support
+Supplier shall reasonably support and advise [XBank]() and the individual [XBank]() Affiliates at their request, free of charge, in a suitable form in solving problems with the Products, and to provide [XBank]() and its Affiliates with any other form of support on a time and materials basis, if requested by [XBank]() and explicitly approved by [XBank](). If a Product is deemed by [XBank]() to be a standard [XBank]() Product, then Supplier shall provide [XBank]() with at least one (1) item of Product, to be used for testing purposes, at no charge to [XBank]().
+
+# 9 REPRESENTATIONS AND WARRANTIES
+
+## 9.1 Representations and Warranties of Supplier
+Supplier represents and warrants to [XBank]() that:
+* (a) it is duly formed, validly existing and in good standing under the laws of the jurisdiction of its formation and has all corporate power necessary to carry on its business as now being conducted;
+* (b) it has all necessary rights and full authority to enter into this Agreement and to perform its obligations hereunder, and that this Agreement is not in conflict with its charter or by-laws or with any other agreement to which it is a party or by which it may be bound;
+* (c) it has all necessary rights and full authority to grant rights and licenses granted herein;
+* (d) the Products and Services and [XBank]()’s and its Affiliates’ use of the same in accordance with this Agreement do not and shall not violate or infringe the rights of any third party or any Laws;
+* (e) the Products and Services are and shall remain free of all liens, claims, encumbrances and other restrictions, and [XBank]()’s and its Affiliates’ use and possession of the same shall not be adversely affected, interrupted or disturbed;
+* (f) the installation of any Update shall not materially degrade, impair or other wise reduce the performance or functionality of any Product or Service or give rise to any additional, material costs;
+* (g) the Products (including all Updates thereto) shall not, at the time of delivery to [XBank]() and/or its Affiliates (as the case may be) from time to time, contain any Harmful Code;
+* (h) Supplier shall not intentionally include or introduce any Harmful Code in or into the Products or Services;
+(iTM* EP) it shall perform all Services in a high quality, professional manner, with the highest degrees of skill, care, diligence, prudence and foresight which could reasonably be expected from a highly skilled and experienced person performing similar services in similar circumstances; using a sufficient number of appropriately qualified and skilled personnel; and in accordance with all Laws applicable to the Services (including health, safety, and environmental regulations) and appropriate internal procedures;
+* (j) all Supplier interconnectivity to [XBank]()’s or its Affiliates’ computing systems and/or networks shall be in compliance with [XBank]()’s and/or its Affiliates’, as the case may be, information systems security guidelines provided to Supplier from time to time;
+* (k) neither Supplier nor anyone acting on its behalf has given or shall give any gift, gratuity or other payment to the personnel of [XBank](), its Affiliates, or anyone acting on their behalf, in connection with the marketing of Supplier’s or its Affiliates’ Products, the execution of this Agreement, or any transaction hereunder; and
+* (l) the Product(s) and Services are freely exportable, except to countries to which the United States has embargoed goods, or to anyone on the United States Treasury Department’s list of Specially Designated Nationals or the United States Commerce Department’s Table of Deny Orders.
+
+## 9.2   Representations and Warranties of [XBank]()
+[XBank]() represents and warrants to Supplier that [XBank]() has the right, title and authority to enter into this Agreement and perform its obligations hereunder
+
+# 9.3 Disclaimer of Warranties
+EXCEPT AS SPECIFICALLY PROVIDED IN THIS AGREEMENT, NEITHER Supplier NOR [XBank]() MAKE ANY OTHER WARRANTIES, EXPRESS OR IMPLIED, AND EACH SPECIFICALLY DISCLAIMS ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+# 10 Supplier Personnel
+
+## 10.1 No Employee Benefits
+Supplier’s personnel shall not be entitled to any benefits provided to employees of [XBank]() or its Affiliates, whether consisting of participation in an employee retirement, pension, supplemental compensation, defined contribution or similar plan; workers’ compensation; disability or other similar benefits; unemployment or other similar insurance or otherwise. Supplier shall provide its personnel with all such benefits as may be required by law or by the terms of any employee retirement, pension, supplemental compensation, defined contribution or similar plan in or to which Supplier or any of Supplier’s personnel participates or contributes.
+
+## 10.2   Wages, Taxes & Other Payments
+[XBank]() and its Affiliates shall not be responsible for, and Supplier shall be exclusively responsible for, making payment of wages, salary or bonus or other amounts to Supplier’s personnel, and for withholding from all such amounts and making payments to the appropriate governmental agencies of all withholding and other amounts in connection with federal, state and local taxes; all assessments, contributions, dues, and fees, all amounts in respect of workers’ compensation, disability or other similar benefits, unemployment or other similar insurance; and all other amounts which may be owed or payable to any of Supplier’s personnel, any local, state or federal government, agency, department or authority. [XBank]() and its Affiliates shall further not be responsible for, and Supplier shall be exclusively responsible for, any withholdings from payments to Supplier’s personnel in respect of payments to any union, club, or other organization of or to which Supplier or any of Supplier’s personnel is a member or may be subject, or any employee retirement, pension, supplemental compensation, defined contribution or similar plan in or to which either Supplier or any of its personnel participates or contributes.
+
+### 10.3 Work Status
+Supplier shall complete all required forms and obtain all necessary permits authorizing each of its employees, agents, and contractors, and those of its subcontractors, to render services as provided herein in each applicable jurisdiction prior to such personnel rendering services in such jurisdiction. Supplier acknowledges and agrees that [XBank]() shall have no responsibility for verifying the work authorization status of any of Supplier’s personnel.
+
+## 10.4 Contact Personnel
+Each Party will nominate a single Global Contract Manager. For operational procurement transactions, Supplier will nominate Local Supplier Contacts and [XBank]() will nominate Regional Authorised Purchasing Personnel. It is expected of Supplier to keep an up-to-date database of [XBank]()’s Local Supplier Contacts per location/organisational unit/country, stating his/her name, address, telephone, fax, mail, location, function and the role he/she is fulfilling. On request of [XBank](), Supplier will provide this database to [XBank]() in a format prior defined by [XBank]().
+
+## 10.5 Contract Management Meetings
+The Global Contract Managers of both Parties will regularly meet, at least quarterly, to discuss operational issues and how [XBank]() could further reduce its overall technology costs. Supplier will proactively inform [XBank]() in writing of new products or solutions which allow [XBank]() to reduce its cost base, in particular, lower cost Product alternatives which fulfil [XBank]()’s business needs.
+
+## 10.6 Supplier Global Contract Manager
+Supplier Global Contract Manager responsibilities:
+* Be responsible for the implementation, execution, monitoring, changes and negotiation of this agreement
+* Act as a focal point for all issues concerning [XBank]()
+* Collect, consolidate and prioritise issues concerning this agreement as indicated by Local Supplier Contacts
+* Report the status, progress, structural problems and issues concerning this agreement to the senior management
+* Provide the Local Supplier Contacts with policies and priorities
+* Provide assistance for Local Supplier Contacts
+* Ensure Supplier does not initiate or participate in any pricing or contract negotiations or discussions with any [XBank]() Affiliate without informing the [XBank]() Global Contract Manager in writing.
+* Ensure Supplier sends a copy of all pricing information released to [XBank]() Affiliates to [XBank]()’s Global Contract Manager.
+Supplier will advise [XBank]() prior to naming its Global Contract Manager or key Local Supplier Contacts. [XBank]() has the right to veto any proposed or incumbent Global Contract Manager and Local Supplier Contact. The veto right may only be exercised by the [XBank]() Global Contract Manager.
+
+### 10.7 Local Supplier Contacts
+Local Supplier Contacts responsibilities:
+* Responsible for delivery of Products and hardware-related services
+* Function as counterpart to the [XBank]()’s Regional Authorised Purchasing Personnel
+* Inform the Supplier Global Contract Manager if the provided Products and hardware-related services are not running satisfactory and the problems can not be remedied
+* Provide reports and monitor performance indicators
+* Collect, analyse, prioritise problems and discuss these problems with [XBank]()’s Regional Authorised Purchasing Personnel. Be responsible for the implementation, execution and monitoring of the solutions for these problems
+
+## 10.8 ReportingMIS
+Supplier will prepare detailed reporting, at the minimum the following defined information reports, in electronically readable form. Additional local reports by affiliates may be required, which shall be delivered at no additional costs. Reports must be delivered by Supplier no later than fourteen (14) calendar days after the end of the quarter. An exact mandatory template will be provided to Supplier, which may not change the format or the structure of the template. This listing of MIS reports is to be provided to [XBank]()’s Global Contract Manager, by Supplier, no less than once a quarter:
+* Product roadmap and future technology offerings
+* A quarterly summary of Product prices displaying price changes from the previous report, and comparison to changes in list pricing, and market pricing
+* A quarterly spend report of the global volume purchased by each product category
+* A comprehensive quarterly report, to be provided in Microsoft excel format, of the global purchases made by [XBank]() for the corresponding quarter and accumulated for the current calendar year. The report data will contain the following detail:
+* [XBank]() legal entities
+* [XBank]() divisions
+* Countries
+* [XBank]() sourcing-categories (if available)
+* [XBank]() contract number (if available)
+* [XBank]() vendor number (if available)
+* [XBank]() Purchase Order number
+* Item Product descriptions
+* Item part numbers
+* Item Product category
+* Item Product serial numbers
+* Item list rice
+* Item discount off of list
+* Item net purchase price
+* Supplier Invoice numbers
+* Product delivery dates
+* Product installation dates
+* Product warranty failures
+* Any further detail necessary to verify the terms of the events of default
+
+### 10.9 [XBank]() Global Contract Manager
+[XBank]() Global Contract Manager (designated from [XBank]() supply management) responsibilities:
+* Be responsible for the implementation, execution, monitoring, changes and negotiation of this agreement
+* Act as focal point for all issues concerning Supplier
+* Collect, consolidate and prioritize issues concerning this agreement as indicated by Regional Authorized Purchasing Personnel
+* Provide and assist the Regional Authorized Purchasing Personnel with policies and priorities
+
+## 10.10 Regional Authorised Purchasing Personnel
+Regional Authorized Purchasing Personnel responsibilities:
+* Order Products and be responsible for the local payment and logistics process
+* Function as counterpart to the Local Supplier Contact
+* Collect, analyze, prioritize problems and discuss these problems with Local Supplier Contact
+* Inform the [XBank]() Global Contract Manager if the provided products and hardware-related services are not satisfactory and the problems cannot be remedied
+
+# 11 CONFIDENTIAL INFORMATION
+
+## 11.1 [XBank]()’s Identity
+Supplier agrees not to disclose the identity of [XBank]() or its Affiliates as a customer of Supplier, the existence or nature of the relationship contemplated hereby or the intended use of the Product(s) or Services without the prior written consent of [XBank](), which [XBank]() may withhold in its sole discretion.
+
+## 11.2   [XBank]() Confidential Information
+Supplier agrees to maintain the confidentiality of all information and materials supplied to Supplier by [XBank]() and its Affiliates or observed or otherwise obtained by Supplier, its employees, agents or subcontractors regarding or in the possession of [XBank]() and its Affiliates, including without limitation, information or materials concerning [XBank]() and its Affiliates, or their respective present, potential or future clients and customers, organization, work, know-how, finances, strategies, plans, systems, programs and products. Supplier agrees not to use any such information or materials except as contemplated by this Agreement for the purposes of this Agreement and not to disclose or take any other action inconsistent with the confidential nature of such information and materials. Without limiting the foregoing, Supplier shall limit access to such information to its employees only on a “need to know” basis. Supplier agrees that [XBank]() and its Affiliates shall have the right to conduct an audit of Supplier’s procedures used to maintain the confidentiality of such information and materials. Supplier agrees that, either upon learning of, or upon a showing by [XBank]() and its Affiliates of, any threatened or actual unauthorized use or disclosure of such information or materials by Supplier's employees, agents or subcontractors, or in the event of any loss of, or inability to account for, any such information or materials, Supplier will notify [XBank]() and its Affiliates thereof and will cooperate as reasonably requested by [XBank]() and its Affiliates to seek appropriate injunctive relief against the applicable employees, agents or subcontractors or otherwise to prevent or curtail such threatened or actual unauthorized use or disclosure, or to recover such information or materials.
+
+# 11.3 Security
+Supplier shall implement and maintain an appropriate security program for [XBank]() Confidential Information to (iTMEP) ensure the security and confidentiality of such Confidential Information, (ii) protect against any threats or hazards to the security or integrity of such Confidential Information, and (iii) prevent unauthorized access to or use of such Confidential Information. Supplier acknowledges and agrees that Swiss bank customer data may not, under any circumstances, be transferred to any locations outside of Switzerland or be accessed from any locations outside of Switzerland. Supplier shall immediately notify [XBank]() of (iTMEP) any disclosure, access to or use of any [XBank]() Confidential Information in breach of this Agreement, (ii) any unauthorized intrusion into systems containing [XBank]() Confidential Information, and (iii) any disclosure of any [XBank]() Confidential Information to Supplier where the purpose of such disclosure is not known to Supplier. [XBank]() reserves the right to review Supplier’s policies and procedures used to maintain the security and confidentiality of [XBank]() Confidential Information. At [XBank]()’s direction and in [XBank]()’s sole discretion at any time, Supplier shall immediately return to [XBank]() any or all [XBank]() Confidential Information.
+
+# 11.4 Supplier Confidential Information
+[XBank]() acknowledges that Supplier considers the Products, Documentation, and any materials labeled “Confidential" at the time of their delivery to [XBank]() to be confidential. [XBank]() agrees that unless [XBank]() has obtained Supplier's written consent, it shall use reasonable efforts to prevent their disclosure to any person other than the employees, agents and contractors of those authorized to use the Products pursuant to this Agreement, provided such level of protection is equal to or greater than that used by [XBank]() to protect its own similar information.
+
+# 11.5 Exceptions to Confidentiality Obligations
+Information shall not be considered confidential to the extent, but only to the extent, that such information: (iTMEP) is approved for release by written agreement of the discloser, (ii) is already rightfully known to the recipient free of any restriction at the time it is obtained from the discloser, (iii) is subsequently rightfully learned from an independent third party lawfully entitled to disclose the information and free of any restriction; (iv) is or becomes publicly available through no wrongful act of either Party and is not “personally identifiable information”; or (v) is independently developed by one Party without reference to any Confidential Information of the other.
+
+# 11.6 Disclosures Required by Law
+A Party may disclose the Confidential Information of the other Party to the extent, but only to the extent, required by law, regulation, rule, act, order, or request of any court, governmental authority or agency, self-regulatory organization or exchange, including but not limited to any subpoena, civil investigative demand, or discovery request or demand, provided such Party gives the other Party (to the extent not prohibited from doing so) prompt written notice and cooperation in seeking to limit the disclosure to the greatest extent possible, consistent with the legal obligations of the Party required to disclose the Confidential Information, and in obtaining confidential treatment for such information, if available.
+
+# 11.7 Return of Confidential Information
+Upon request, each Party shall use commercially reasonable efforts to return to the other Party, or at the other Party’s option destroy, all tangible copies of the other Party’s Confidential Information in such Party’s or its Affiliates’ or subcontractors’, or their personnel’s possession, and to purge its, its Affiliates’, and its subcontractors’ information systems of all such Confidential Information in electronic form, except as may exist in automatic backups. Notwithstanding the foregoing, each Party may retain an archive copy of the Confidential Information received from the other Party, and [XBank]() and its Affiliates may retain the Confidential Information of Supplier relating to the Products and Services for which [XBank]() or its Affiliates retains a perpetual license pursuant to this Agreement. All Confidential Information of the other Party remaining in a Party’s possession shall remain subject to the confidentiality provisions of this Agreement.
+
+# 11.8 Access to [XBank]()’s Systems
+Supplier’s use of, access to, or interconnectivity with [XBank]()’s or its Affiliates’ information technology systems (including networks) shall be subject to [XBank]()’s or its Affiliates’, as applicable, prior express, written approval in each case and any information systems security guidelines provided to Supplier from time to time or of which Supplier or its personnel are otherwise made aware, provided however that in no event shall Supplier use, access, or connect to [XBank]()’s or its Affiliates’ information technology systems located in Switzerland or Singapore from any location outside of either of those jurisdictions or transfer outside of either of those jurisdictions any data or information stored on any such systems.
+
+# 11.9 Further Undertakings Regarding Confidentiality
+Supplier acknowledges and agrees that it, its employees, and any employees of any third parties it uses, may be required to sign and adhere to additional confidentiality agreements as required by local law or applicable policy of [XBank]() or its Affiliates. Without limiting the generality of the foregoing, for work undertaken or access to systems or information, documents, records or data located in Switzerland, the confidentiality agreement as set forth in Exhibit E-1 is to be confirmed by signature by Supplier and its subcontractors. Supplier undertakes to have all of its and its subcontractors’ employees sign the confidentiality agreement as set forth in Exhibit E-2, which are susceptible to encounter any such confidential information, documents, records or data. Supplier shall send the originals of such confidentiality agreements to [XBank]().
+
+# 12 INTELLECTUAL PROPERTY INFRINGEMENT
+
+## 12.1 Intellectual Property Indemnification
+Supplier shall, at [XBank]()’s election and at Supplier’s sole expense, indemnify, defend and hold harmless [XBank]() and its Affiliates, and their respective directors, officers, employees, contractors, consultants and agents (the “[XBank]() Indemnities”), from and against all losses, liabilities, damages, costs and expenses (including all reasonable legal fees), as incurred, in relation to any threatened or actual claim of infringement, breach, contravention, misuse or misappropriation of any Intellectual Property Right arising out of or related to the Products or Services, or any part thereof, or [XBank]()’s or its Affiliates possession or use of the same in accordance with this Agreement (an “IPR Claim”).
+
+## 12.2   Indemnification Procedure
+[XBank]() shall promptly notify Supplier of any IPR Claim brought against any of the [XBank]() Indemnities for which [XBank]() desires Supplier to indemnify the [XBank]() Indemnities as provided herein. Supplier, at its sole expense, shall diligently conduct the defense of any such IPR Claim and all negotiations for its settlement or compromise, using competent legal advisors and in such a way as not to bring the reputation or good name of the [XBank]() Indemnities into disrepute. [XBank]() shall give Supplier all reasonable assistance, at Supplier’s expense. Supplier shall not settle or compromise any IPR Claim without [XBank]()’s consent, unless such compromise or settlement includes a complete and unconditional release of the [XBank]() Indemnities and does not impose any obligations on the [XBank]() Indemnities other than any payments made by Supplier.
+
+# 12.3 Remediation of IPR Infringement
+In the event of an IPR Claim, Supplier may, without limiting its indemnification obligations set forth above and at its sole expense,
+* (a) procure for [XBank]() and its Affiliates the right to continue using the affected Products and/or Services as provided in this Agreement; or
+* (b) modify the affected Products and/or Services so as to render them non-infringing, provided that such modification does not materially adversely affect the functionality, performance or compatibility of the Products and Services or [XBank]()’s or its Affiliates’ use thereof; or
+* (c) replace the affected Products and/or Services with non-infringing substitutes that provide equivalent functionality, performance, and compatibility.
+
+# 12.4 Termination Due to IPR Infringement
+If Supplier is unable to avoid the IPR Claim despite using all diligent efforts to achieve the foregoing, then, without limiting [XBank]()’s other rights or remedies, Supplier shall have the right to terminate this Agreement as to the infringing Product or Service, provided that Supplier refunds to [XBank]() all amounts paid with respect to all Products and Services affected thereby.
+
+# 13 TERM AND TERMINATION
+
+## 13.1 Agreement Term
+This Agreement shall commence as of the Effective Date when it has been duly executed and delivered by the Parties as set forth in this Agreement and shall continue unless and until terminated in accordance with this Agreement.
+
+## 13.2   Transaction Schedule Term
+Each Transaction Schedule shall become binding when duly executed and delivered by the Parties, subject to [XBank]() issuing a Purchase Order unless the Transaction Schedule indicates that [XBank]() will not be issuing a Purchase Order, and shall continue unless and until terminated in accordance with this Agreement.
+
+# 13.3 Termination for Cause
+Either Party may terminate this Agreement as to the affected Transaction Schedule(s) upon written notice to the other Party only where the other Party has committed a material breach and has failed to remedy such breach within thirty (30) days after receiving written notice thereof.
+
+# 13.4 Effect of Termination
+Termination, completion, rescission or expiration of this Agreement or any Transaction Schedule shall not prejudice or affect any right of action, remedy, or liability which shall have accrued prior to such termination, completion, rescission or expiration. Perpetual licenses granted in this Agreement shall survive any termination, completion, rescission or expiration of this Agreement, except to the extent as a result of [XBank]()’s uncured material breach of its obligation to pay the License Fee, but otherwise subject to and in accordance with the provisions of this Agreement.
+
+# 14 LIABILITY
+
+## 14.1 Limitation and Exclusions of Liability
+EXCEPT AS PROVIDED BELOW,
+(a) THE AGGREGATE LIABILITY OF EACH PARTY AND ITS AFFILIATES TO THE OTHER PARTY AND ITS AFFILIATES (REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT OR TORT OR A STATUTORY CLAIM) SHALL BE LIMITED TO THE GREATER OF (X) THE TOTAL COMMITTED FEES SET FORTH ON THE TRANSACTION SCHEDULE, AND (Y) THE FEES ACTUALLY PAID BY [XBank](), AND
+(b)  IN NO EVENT WILL EITHER PARTY OR ITS AFFILIATES BE LIABLE TO THE OTHER PARTY OR ITS AFFILIATES FOR LOST PROFITS OR FOR SPECIAL, INCIDENTAL, INDIRECT, CONSEQUENTIAL OR STATUTORY DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE SUBJECT MATTER HEREOF, IN EACH CASE REGARDLESS OF THE FORM OF ACTION (WHETHER IN CONTRACT OR TORT OR A STATUTORY CLAIM), WHETHER OR NOT SUCH PARTY HAS BEEN INFORMED OF, OR OTHERWISE MIGHT HAVE ANTICIPATED, THE POSSIBILITY OF SUCH DAMAGES.
+
+## 14.2   Exceptions to the Limitation and Exclusions of Liability
+NOTWITHSTANDING THE FOREGOING, NO LIMITATION ON OR EXCLUSION OF THE LIABILITY OF EITHER PARTY OR ITS AFFILIATES SHALL APPLY TO
+* (a) DAMAGES ARISING IN RESPECT OF A BREACH OF THE ARTICLE ENTITLED “CONFIDENTIAL INFORMATION,”
+* (b) Supplier’S OBLIGATIONS UNDER THE ARTICLE ENTITLED “INTELLECTUAL PROPERTY INFRINGEMENT,”
+* (c) DAMAGES ARISING IN RESPECT OF CLAIMS FOR GROSS NEGLIGENCE OR WILLFUL MISCONDUCT,
+* (d) DAMAGES ARISING IN RESPECT OF PERSONAL INJURY OR PROPERTY DAMAGE.
+
+# 15 GENERAL PROVISIONS
+
+## 15.1 Assignment
+Neither Party may assign this Agreement, any Transaction Schedule and/or any rights and/or obligations hereunder without the prior written consent of the other Party, which shall not be unreasonably withheld; provided, however, that [XBank]() may assign this Agreement, any Transaction Schedule and/or any of its rights hereunder upon written notice to Supplier, but without requiring the consent of Supplier, in good faith to any Affiliate, to [XBank]()'s successor pursuant to a merger, consolidation or sale, or to an entity which acquires all or substantially all of the business of [XBank]() relating to this Agreement. Any assignment in violation of this provision shall be void. Subject to the foregoing, this Agreement shall be binding upon and shall inure to the benefit of the Parties' respective successors and permitted assigns.
+
+## 15.2   Publicity
+Supplier shall not identify [XBank]() or its Affiliates as a customer or list them as a reference or give details to third parties about the Products or Services it provides or provided to [XBank]() or its Affiliates unless it has obtained prior written consent from [XBank](). [XBank]() may withdraw its consent at any time for any reason.
+
+# 15.3 Modification, Amendment, Supplement And Waiver
+No modification, course of conduct, amendment, supplement to or waiver of this Agreement or any provision hereof shall be binding upon the Parties unless made in writing and duly executed by authorized representatives of both Parties. At no time shall any failure or delay by either Party in enforcing any provisions, exercising any option, or requiring performance of any provisions, be construed to be a waiver of same.
+
+# 15.4 Notices
+All notices permitted or required to be given pursuant to this Agreement shall be in writing and delivered personally, or sent by prepaid first class mail or by reputable overnight courier to a Party as follows:
+If to [XBank](),
+[XBank]()
+Supply Management
+[[XBank]() Address for Notices]
+Attention: Regional IT Sourcing Manager
+
+with a copy, in the case of notices of breach or other default, to:
+
+[XBank]()
+Legal and Compliance Department
+[[XBank]() Address for Notices of Default/Breach]
+Attention: Technology Counsel
+
+If to Supplier,
+[Supplier’s Full, Legal Name]
+[Supplier’s Address]
+Attention: [Insert Name for Notices]
+
+or such other addresses, in the same country as the Party’s addresses set forth above, of which a Party has notified the other Party in accordance with this provision, and such other address(es) set forth in the applicable Transaction Schedule.
+Notices sent to the proper addressee(s) by registered mail or reputable overnight courier shall be deemed to have been made as of the date of delivery as evidenced by a return receipt. Otherwise, the notifying Party shall bear the burden of proof that the notice was actually received by the applicable person(s) required to be notified pursuant to this provision.
+
+# 15.5 Order of Precedence
+In the event of any inconsistency between this Agreement (not including the Transaction Schedules) and any Transaction Schedule, the provisions of the Transaction Schedule shall govern with respect to that Transaction Schedule, except for the provisions entitled [Representations and Warranties, Confidential Information, Intellectual Property Infringement, Term and Termination, Liability, and General Provisions], as to which this Agreement shall prevail. The terms of this Agreement (including the Transaction Schedules) shall supersede and replace the terms and conditions of any click wrap, shrink wrap or other agreement included with or associated with the Products or Services or the medium on which they are contained, including without limitation, any Supplier purchase order, invoice, bill, statement, or web page.
+
+# 15.6 Severability
+If any provision of this Agreement is for any reason held to be invalid, illegal or unenforceable, the remaining provisions of this Agreement shall be unimpaired, and the invalid, illegal or unenforceable provision shall be replaced by a valid, legal and enforceable provision that comes closest to the intention of the Parties underlying the original provision.
+
+# 15.7 Relationship of the Parties
+Nothing in this Agreement shall constitute or be deemed to constitute a joint venture, partnership or employment relationship between the Parties. Neither Party shall have any authority or power to bind the other Party or to enter into any agreement in the name of or create a liability against the other Party in any way or for any purpose.
+
+# 15.8 Survival
+The provisions of the Articles of this Agreement entitled [“Representations and Warranties”, “Confidential Information,” “Intellectual Property Infringement,” “Liability,” and “General Provisions”] shall survive any completion, rescission, expiration or termination of this Agreement. In addition, all rights and restrictions relating to any perpetual licenses and all payment terms relating to any outstanding payments shall survive.
+
+# 15.9 Dispute Resolution
+Prior to initiation of any court, arbitration or any governmental procedure, the Parties shall endeavor to settle amicably by direct informal negotiation any disagreement or dispute arising out of or in connection with this Agreement.
+
+# 15.10 Governing Law and Forum Selection
+* (a) This Agreement is governed, construed and enforced by the substantive Laws of Switzerland hereby (iTMEP) international conventions, including the United Nations Convention on Contracts for the International Sale of Goods of 11.04.1980 (CISG) and (ii) Swiss conflict of law rules are herby excluded from application to this Agreement.
+* (b) The ordinary courts of the Canton of Zurich shall have exclusive jurisdiction with regard to any dispute arising between the Parties out of or in connection with this Agreement (including its interpretation, closing, execution, binding effect, amendment, breach, termination or enforcement.
+
+# 15.11 Subcontracting
+The Supplier may not subcontract or delegate the performance of any of its obligations under this Agreement without, in each case, the prior written consent of [XBank](). Supplier shall be responsible for any and all acts and omissions of its subcontractors and agents as if such acts or omissions were its own.
+
+# 15.12 Third Party Service Providers
+[XBank]() may elect to have Supplier provide some or all of the Services to a third party providing services to [XBank]() and/or its Affiliates.
+
+# 15.13 Compliance with Laws
+Each Party shall comply with all Laws applicable to its performance under this Agreement and shall procure that its employees, agents and subcontractors shall do the same.
+
+# 15.14 Cumulative Remedies
+Except as expressly provided to the contrary herein, all remedies set forth in this Agreement are cumulative, and not exclusive of any other remedies of a Party at law or in equity, statutory or otherwise.
+
+# 15.15 Favorable Provisions
+Supplier represents and warrants to [XBank]() that the terms (including pricing) of this Agreement are comparable to or better than the terms (including pricing) offered by Supplier to any of its similarly situated commercial customers of equal or lesser size for comparable Products or Services. If Supplier offers more favorable terms (including pricing) to such commercial customers during the term of this Agreement, such terms shall also be made available to [XBank]() within thirty (30) days from the execution of such agreement.
+
+# 15.16 Negotiated Terms
+The Parties agree that the terms and conditions of this Agreement and all Transaction Schedules and exhibits attached hereto are the result of negotiations between the Parties and shall not be construed in favor of or against any Party by reason of the extent to which any Party or its professional advisors participated in the preparation of this Agreement or the Transaction Schedules. Each Party hereto acknowledges that it has had the opportunity to seek and obtain legal counsel in connection with the preparation, execution and delivery of this Agreement and the Transaction Schedules, and any election by a Party not to seek and obtain legal counsel shall be at its sole risk.
+
+# 15.17 Headings
+The headings in this Agreement are for reference only and shall not affect the meaning or interpretation of any of the provisions of this Agreement.
+
+# 15.18 Whole Agreement
+This Agreement contains the whole agreement between the Parties concerning the subject matter hereof and supersedes all previous agreements, promises, proposals, representations, understanding and negotiations, whether written or oral, between the Parties relating thereto.
+
+# 15.19 Force Majeure
+In no event shall either Party (including its Affiliates) be liable to the other (including its Affiliates) for any delay or failure to perform hereunder, which delay or failure to perform is due to causes beyond the control of and not reasonably foreseeable by said Party, including, but not limited to, acts of God; acts of the public enemy; acts of the government; fires; floods; epidemics; quarantine restrictions; strikes (not involving employees, subcontractors or agents of the Party whose performance is delayed or prevented); acts of terrorism, riots; and freight embargoes. Notwithstanding the foregoing, in every case the delay or failure to perform must be beyond the control and without the fault or negligence of the Party claiming excusable delay and such affected Party shall take steps to mitigate the effect and length of such force majeure event. Performance times under this Agreement shall be considered extended for a period of time equivalent to the time lost because of any delay which is excusable under this Section.
+
+# 15.20 Amendment
+No modification, amendment, supplement to or waiver of this Agreement is binding upon the Parties hereto unless made in writing and duly signed by both Parties.
+
+# 15.21 Waiver
+A failure of either Party to exercise any right provided for herein, shall not be deemed to be a waiver of any right hereunder.
+
+# 15.22 Counterparts
+This Agreement may be executed in counterparts, each of which, when so executed and delivered, shall be deemed to be an original and enforceable, but all of which, taken together, shall constitute one and the same instrument.
+
+# 16 Environmental and Social Requirements[1]
+
+[XBank]() is committed to the principles of environmental sustainability and social responsibility. [XBank]() therefore requires Contracting Party - without limiting Contracting Party’s obligations under Section [Clause[2]] - to comply with any applicable legal requirements relating to the environment, to labour standards and to health and safety at work.
+
+Contracting Party shall ensure that its suppliers, sub-contractors, and service providers also comply with the foregoing requirements.
+  ________________________________________
+[1] Purpose of this document: clause to be added to existing templates.
+[2] Insert cross-reference to general “compliance with laws” section.
+
+# 17 Background Checks
+* a. Except to the extent prohibited by applicable Law, Contracting Party shall, at its expense, conduct current and appropriate background investigations (each, a “Background Check”) on Contracting Party Personnel in accordance with Annex H (Screening).
+* b. In addition, Contracting Party shall cause its and its Affiliates’ subcontractors (and any sub-subcontractors or other companies whose personnel will perform any Services hereunder) to meet the foregoing requirements with respect to their personnel.
+
+# 18 TPRM Exception clause
+[Vendor]() will cooperate in good faith to complete promptly any required due diligence according to [XBank]()’s third party risk management framework.  Such due diligence may include but is not limited to providing financial information and completing information security and compliance assessments, which may be in the form of online questionnaires and/or an on-site assessments.  If the results of such due diligence do not meet [XBank]()’s standards, then notwithstanding anything else in this Agreement to the contrary, [XBank]() may terminate this Agreement and/or any affected Statements of Work without further liability.
+
+IN WITNESS WHEREOF, each of the Parties has accepted and executed this Agreement as of the Effective Date.
+
+{{signatures}}
