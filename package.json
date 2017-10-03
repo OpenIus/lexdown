@@ -18,6 +18,8 @@
     "remark-html": "^6.0.1",
     "remark-parse": "^4.0.0",
     "remark-toc": "^4.0.1",
-    "unified": "^6.1.5"
+    "unified": "^6.1.5",
+    "cheerio": "^1.0.0-rc.2",
+    "sync-request": "^4.1.0"
   }
 }
