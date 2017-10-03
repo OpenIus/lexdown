@@ -15,3 +15,12 @@
 .footnotes > ol > li > p {
   display: inline;
 }
+
+.popover.bs-tether-element-attached-bottom::after, .popover.popover-top::after {
+  border-top-color: #052341;
+}
+
+.popover.bs-tether-element-attached-bottom, .popover.popover-top {
+  color: white;
+  background-color: #052341;
+}

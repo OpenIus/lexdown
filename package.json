@@ -22,6 +22,7 @@
     "remark-slug": "^4.2.3",
     "remark-sub-super": "^1.0.7",
     "remark-toc": "^4.0.1",
+    "replace-string": "^1.1.0",
     "sync-request": "^4.1.0",
     "unified": "^6.1.5"
   }

@@ -1,6 +1,7 @@
 const request = require('sync-request')
 var apiKey = process.env['LEXSEARCH_KEY']
 var cheerio = require('cheerio')
+const replaceString = require('replace-string')
 
 function fetch (canonical) {
 	var res = request('POST',
@@ -21,8 +22,8 @@ function fetch (canonical) {
 	}
 	return {
 		title: title,
-		htmlTitle: htmlTitle,
-		html: html
+		htmlTitle: replaceString(htmlTitle, '"', '\''),
+		html: replaceString(html, '"', '\'')
 	}
 }
 
