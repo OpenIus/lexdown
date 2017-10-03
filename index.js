@@ -7,6 +7,9 @@ const parse = require('remark-parse')
 const unified = require('unified')
 const yaml = require('js-yaml')
 const subSuper = require('remark-sub-super')
+const slugs = require('remark-slug')
+const headings = require('remark-autolink-headings')
+
 const marginalia = require('./syntax/marginalia')
 const reflink = require('./syntax/reflink')
 const includes = require('./syntax/includes')
@@ -43,6 +46,8 @@ function parseLexdown (contents, opts, cb) {
     // .use(logger)
     .use(frontmatter, ['yaml'])
     .use(subSuper)
+    .use(slugs)
+    .use(headings)
     .use(html)
     .process(contents, (err, file) => {
       var basicCSS = fs.readFileSync(path.join(__dirname, 'assets/css/basic.css'), {
