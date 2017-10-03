@@ -8,7 +8,7 @@ tokenizeReflink.notInLink = true
 tokenizeReflink.locator = locateReflink
 
 function tokenizeReflink (eat, value, silent) {
-  var match = /^\*\[([ \w+]*)\]\(([ \w+\/]*)\)/.exec(value)
+  var match = /^\*\[([ \w*§\;\/+]*)\]\(([ \w.+\/]*)\)/.exec(value)
 
   if (!match) return
   if (silent) return true
