@@ -1,0 +1,11 @@
+body {
+  width: 910px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.marginalia {
+  display: block;
+  width: 100px;
+  margin-left: -110px;
+}
