@@ -49,7 +49,5 @@ Example: `/ch/cod/220/66` for the art. 66 of the OR.
 
 ## Examples
 
-Run `export LEXSEARCH_KEY=XYZ` before the first export.
-
 There are a few example documents in `examples/`. To compile those to html just
 run `bin/parser.js <filename> > test.html`.
