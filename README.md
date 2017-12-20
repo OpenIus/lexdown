@@ -3,6 +3,13 @@
 Lexdown is a markup language for legal documents.
 
 
+## Usage
+
+- Install NodeJS
+- run `./scripts/install.sh`
+- Parse lexdown files as done in `./scripts/usage.sh`
+
+
 ## Syntax
 
 ### Basic markdown syntax
