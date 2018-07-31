@@ -1,24 +1,26 @@
 #!/bin/bash
 function loop() {
-  original="$2"
-    for i in "$1"/*
+  current_dir="$1"
+  base_dir="$2"
+    for element in "$current_dir"/*
     do
-        if [ -d "$i" ]; then
-            loop "$i" "$2"
-        elif [ -e "$i" ]; then
-            echo $i
+        if [ -d "$element" ]; then
+            loop "$element" "$base_dir"
+        elif [ -e "$element" ]; then
+            echo $element
             # foo=${i#$prefix}
             # foo=${foo%$suffix}
-            # echo $original
-            tmp=${i#$original}
-            echo $tmp
+            subpath=${element#$base_dir}
+            echo $subpath
             # wkhtmltopdf tst.html test.pdf
             # pandoc  -s -smart tst.html -o test.pdf
         else
-            echo "$i"" - Folder Empty"
+            echo "$element"" - Folder Empty"
         fi
     done
 }
+
+
 
 loop "$PWD" "$PWD"
 
